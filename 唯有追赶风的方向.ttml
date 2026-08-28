@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:amll="http://www.example.com/ns/amll" itunes:timing="Word" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1" />
+      <itunes:iTunesMetadata>
+        <itunes:translations />
+      </itunes:iTunesMetadata>
+      <amll:meta key="musicName" value="唯有追赶风的方向" />
+      <amll:meta key="artists" value="知更鸟 / HOYO-MiX / Chevy" />
+      <amll:meta key="album" value="唯有追赶风的方向 - Single" />
+      <amll:meta key="qqMusicId" value="0011AmNK31mn3Z" />
+    </metadata>
+  </head>
+  <body dur="02:03.871">
+    <div begin="00:09.542" end="00:25.902" itunes:songPart="Verse">
+      <p begin="00:09.542" end="00:13.270" itunes:key="L1" ttm:agent="v1">
+        <span begin="00:09.542" end="00:09.820">Who</span> <span begin="00:09.820" end="00:10.080">can</span> <span begin="00:10.080" end="00:10.590">surely</span> <span begin="00:10.590" end="00:11.121">know</span> <span begin="00:11.479" end="00:11.790">how</span> <span begin="00:11.790" end="00:12.039">the</span> <span begin="00:12.039" end="00:12.279">wind</span> <span begin="00:12.279" end="00:13.270">blows</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">风将吹向何方 谁也捉摸不透</span>
+      </p>
+      <p begin="00:13.432" end="00:17.194" itunes:key="L2" ttm:agent="v1">
+        <span begin="00:13.432" end="00:13.717">Where</span> <span begin="00:13.717" end="00:13.987">the</span> <span begin="00:13.987" end="00:14.427">balloon's</span> <span begin="00:14.427" end="00:15.377">taking</span> <span begin="00:15.377" end="00:15.786">me</span> <span begin="00:15.786" end="00:16.146">to</span> <span begin="00:16.146" end="00:17.194">roam?</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">气球又会系着我去哪漫游？</span>
+      </p>
+      <p begin="00:17.335" end="00:21.211" itunes:key="L3" ttm:agent="v1">
+        <span begin="00:17.335" end="00:17.593">When</span> <span begin="00:17.593" end="00:18.103">showers</span> <span begin="00:18.103" end="00:18.353">of</span> <span begin="00:18.353" end="00:18.913">notes</span> <span begin="00:19.264" end="00:19.522">fall</span> <span begin="00:19.522" end="00:19.702">like</span> <span begin="00:19.702" end="00:20.032">spar</span><span begin="00:20.032" end="00:21.211">kles</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">当音符的骤雨 如星辉般洒落</span>
+      </p>
+      <p begin="00:21.211" end="00:25.902" itunes:key="L4" ttm:agent="v1">
+        <span begin="00:21.211" end="00:21.556">I</span> <span begin="00:21.750" end="00:21.900">let</span> <span begin="00:21.900" end="00:22.230">them</span> <span begin="00:22.230" end="00:22.566">form</span> <span begin="00:22.704" end="00:23.173">ran</span><span begin="00:23.173" end="00:23.464">dom</span> <span begin="00:23.464" end="00:23.853">new</span> <span begin="00:23.853" end="00:25.902">songs</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">我任由它们交织 写出一首随性的新曲</span>
+      </p>
+    </div>
+    <div begin="00:25.983" end="00:40.124" itunes:songPart="Verse">
+      <p begin="00:25.983" end="00:30.550" itunes:key="L5" ttm:agent="v1">
+        <span begin="00:25.983" end="00:26.420">Find</span> <span begin="00:26.420" end="00:26.770">your</span> <span begin="00:26.770" end="00:27.081">own</span> <span begin="00:27.081" end="00:27.847">pace,</span> <span begin="00:27.847" end="00:28.217">own</span> <span begin="00:28.217" end="00:30.550">path</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">找准你的节奏，你的步调</span>
+      </p>
+      <p begin="00:28.862" end="00:33.605" itunes:key="L6" ttm:agent="v1">
+        <span begin="00:28.862" end="00:29.294">Len</span><span begin="00:29.294" end="00:29.670">to,</span> <span begin="00:29.898" end="00:30.269">pres</span><span begin="00:30.269" end="00:30.640">to,</span> <span begin="00:30.864" end="00:31.193">an</span><span begin="00:31.193" end="00:31.862">dante</span> <span begin="00:31.862" end="00:32.241">lar</span><span begin="00:32.241" end="00:32.582">ghe</span><span begin="00:32.582" end="00:33.605">tto?</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">慢板、急板、行板、或者小广板？</span>
+      </p>
+      <p begin="00:33.807" end="00:38.302" itunes:key="L7" ttm:agent="v1">
+        <span begin="00:33.807" end="00:34.181">Play</span> <span begin="00:34.181" end="00:34.581">for</span> <span begin="00:34.581" end="00:34.810">this</span> <span begin="00:34.810" end="00:35.470">race,</span> <span begin="00:35.470" end="00:35.896">let's</span> <span begin="00:35.896" end="00:38.302">start</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">加入这场竞演，准备开场</span>
+      </p>
+      <p begin="00:38.643" end="00:40.124" itunes:key="L8" ttm:agent="v1">
+        <span begin="00:38.643" end="00:38.987">As</span> <span begin="00:38.987" end="00:39.337">a</span> <span begin="00:39.337" end="00:39.747">dis</span><span begin="00:39.747" end="00:40.124">cord~</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">像不协和音一样~</span>
+      </p>
+    </div>
+    <div begin="00:40.124" end="00:56.282" itunes:songPart="PreChorus">
+      <p begin="00:40.124" end="00:44.430" itunes:key="L9" ttm:agent="v1">
+        <span begin="00:40.124" end="00:40.369">Wing</span> <span begin="00:40.369" end="00:40.609">it</span> <span begin="00:40.609" end="00:41.004">now!</span> <span begin="00:41.050" end="00:41.308">Cast</span> <span begin="00:41.308" end="00:41.983">aside</span> <span begin="00:41.983" end="00:42.497">the</span> <span begin="00:42.497" end="00:42.838">un</span><span begin="00:42.838" end="00:43.395">changing</span> <span begin="00:43.395" end="00:44.430">score!</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">随性发挥！摆脱僵滞的谱面！</span>
+      </p>
+      <p begin="00:43.885" end="00:48.492" itunes:key="L10" ttm:agent="v1">
+        <span begin="00:43.885" end="00:44.431">Swing</span> <span begin="00:44.431" end="00:44.919">now!</span> <span begin="00:44.919" end="00:45.210">We</span> <span begin="00:45.210" end="00:45.439">aren't</span> <span begin="00:45.439" end="00:46.371">bolted</span> <span begin="00:46.371" end="00:46.739">parts</span> <span begin="00:46.739" end="00:47.149">a</span><span begin="00:47.149" end="00:47.399">ny</span><span begin="00:47.399" end="00:48.492">more!</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">摇摆起来！我们可不是零件！</span>
+      </p>
+      <p begin="00:47.816" end="00:52.088" itunes:key="L11" ttm:agent="v1">
+        <span begin="00:47.816" end="00:48.064">Win</span> <span begin="00:48.064" end="00:48.344">it</span> <span begin="00:48.344" end="00:48.784">now!</span> <span begin="00:48.784" end="00:49.036">Be</span> <span begin="00:49.036" end="00:49.285">the</span> <span begin="00:49.285" end="00:49.716">sharp</span> <span begin="00:49.716" end="00:50.236">no</span> <span begin="00:50.236" end="00:50.596">one</span> <span begin="00:50.596" end="00:50.965">can</span> <span begin="00:50.965" end="00:52.088">ignore!</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">拿下胜利！成为最亮眼的高音！</span>
+      </p>
+      <p begin="00:52.400" end="00:54.200" itunes:key="L12" ttm:agent="v1">
+        <span begin="00:52.400" end="00:52.685">Ready</span> <span begin="00:52.685" end="00:52.916">to</span> <span begin="00:52.916" end="00:53.396">surprise</span> <span begin="00:53.396" end="00:53.676">them</span> <span begin="00:53.676" end="00:54.200">all</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">准备去惊艳全场</span>
+      </p>
+      <p begin="00:54.017" end="00:56.282" itunes:key="L13" ttm:agent="v1">
+        <span begin="00:54.017" end="00:54.846">Freely,</span> <span begin="00:54.846" end="00:56.282">aloud!</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">自由地，放声歌唱！</span>
+      </p>
+    </div>
+    <div begin="00:56.002" end="01:11.567" itunes:songPart="Chorus">
+      <p begin="00:56.002" end="01:00.242" itunes:key="L14" ttm:agent="v1">
+        <span begin="00:56.002" end="00:58.359">Woah!</span> <span begin="00:58.465" end="00:58.943">Keep on</span> <span begin="00:58.943" end="00:59.454">movin',</span> <span begin="00:59.454" end="01:00.242">groovin'</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">喔！保持律动，跟上节拍</span>
+      </p>
+      <p begin="00:59.962" end="01:04.012" itunes:key="L15" ttm:agent="v1">
+        <span begin="00:59.962" end="01:02.144">Woah!</span> <span begin="01:02.144" end="01:02.854">Jump high and</span> <span begin="01:02.854" end="01:04.012">fly</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">喔！跃向高空，展翅飞翔</span>
+      </p>
+      <p begin="01:03.806" end="01:08.079" itunes:key="L16" ttm:agent="v1">
+        <span begin="01:03.806" end="01:06.090">Woah!</span> <span begin="01:06.186" end="01:06.737">Speed up,</span> <span begin="01:06.737" end="01:07.447">move it, prove</span> <span begin="01:07.447" end="01:08.079">it</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">喔！加速，行动，去证明</span>
+      </p>
+      <p begin="01:07.665" end="01:11.567" itunes:key="L17" ttm:agent="v1">
+        <span begin="01:07.665" end="01:09.847">Woah!</span> <span begin="01:09.847" end="01:10.557">Jump high and</span> <span begin="01:10.557" end="01:11.567">fly</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">喔！跃向高空，展翅飞翔</span>
+      </p>
+    </div>
+    <div begin="01:11.567" end="01:29.251" itunes:songPart="Bridge">
+      <p begin="01:11.567" end="01:13.697" itunes:key="L18" ttm:agent="v1">
+        <span begin="01:11.567" end="01:12.005">Hey!</span> <span begin="01:12.250" end="01:12.509">Worried</span> <span begin="01:12.509" end="01:12.690">'bout</span> <span begin="01:12.690" end="01:12.944">it?</span> <span begin="01:13.038" end="01:13.269">Don't you</span> <span begin="01:13.269" end="01:13.419">doubt</span> <span begin="01:13.419" end="01:13.697">it!</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">嘿！还在纠结？把疑虑抛开！</span>
+      </p>
+      <p begin="01:13.728" end="01:15.373" itunes:key="L19" ttm:agent="v1">
+        <span begin="01:13.728" end="01:13.987">Let's</span> <span begin="01:13.987" end="01:14.258">go,</span> <span begin="01:14.258" end="01:14.498">hit that</span> <span begin="01:14.498" end="01:14.738">pedal</span> <span begin="01:14.738" end="01:14.978">to the</span> <span begin="01:14.978" end="01:15.373">metal!</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">出发，油门踩到底，切入音色！</span>
+      </p>
+      <p begin="01:15.388" end="01:17.615" itunes:key="L20" ttm:agent="v1">
+        <span begin="01:15.388" end="01:16.117">Emm~</span> <span begin="01:16.169" end="01:16.419">mend your</span> <span begin="01:16.419" end="01:16.599">pace</span> <span begin="01:16.599" end="01:16.839">and</span> <span begin="01:16.839" end="01:17.099">step it</span> <span begin="01:17.099" end="01:17.615">up!</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">嗯~ 调整步调，节奏加快！</span>
+      </p>
+      <p begin="01:17.621" end="01:19.509" itunes:key="L21" ttm:agent="v1">
+        <span begin="01:17.621" end="01:17.885">Play the</span> <span begin="01:17.885" end="01:18.106">ace,</span> <span begin="01:18.106" end="01:18.346">power it</span> <span begin="01:18.346" end="01:18.586">on,</span> <span begin="01:18.586" end="01:18.814">let's</span> <span begin="01:18.814" end="01:19.184">amp it</span> <span begin="01:19.184" end="01:19.509">up!</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">出绝招，全速启动，音浪推高！</span>
+      </p>
+      <p begin="01:19.509" end="01:21.194" itunes:key="L22" ttm:agent="v1">
+        <span begin="01:19.509" end="01:19.765">Lights</span> <span begin="01:19.765" end="01:20.014">on</span> <span begin="01:20.014" end="01:20.174">our</span> <span begin="01:20.174" end="01:20.525">star,</span> <span begin="01:20.525" end="01:20.965">supercharge</span> <span begin="01:20.965" end="01:21.194">it!</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">点亮千星，引擎超载！</span>
+      </p>
+      <p begin="01:21.194" end="01:23.432" itunes:key="L23" ttm:agent="v1">
+        <span begin="01:21.194" end="01:21.641">Electri</span><span begin="01:21.641" end="01:21.881">fy,</span> <span begin="01:21.881" end="01:22.062">our</span> <span begin="01:22.062" end="01:22.361">ending</span> <span begin="01:22.361" end="01:22.711">line is</span> <span begin="01:22.711" end="01:23.022">right in</span> <span begin="01:23.022" end="01:23.432">sight</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">电频激荡，终点线近在眼前</span>
+      </p>
+      <p begin="01:23.432" end="01:25.315" itunes:key="L24" ttm:agent="v1">
+        <span begin="01:23.432" end="01:23.676">Birds</span> <span begin="01:23.676" end="01:23.907">of</span> <span begin="01:23.907" end="01:24.107">a</span> <span begin="01:24.107" end="01:24.532">feather,</span> <span begin="01:24.532" end="01:24.972">together,</span> <span begin="01:24.972" end="01:25.315">now～</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">振翅同飞的鸟儿们，在此刻集结~</span>
+      </p>
+      <p begin="01:25.315" end="01:29.251" itunes:key="L25" ttm:agent="v1">
+        <span begin="01:25.315" end="01:25.817">Freely,</span> <span begin="01:25.817" end="01:26.048">a</span><span begin="01:26.048" end="01:29.251">loud!</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">自由地，放声歌唱！</span>
+      </p>
+    </div>
+    <div begin="01:30.446" end="01:46.631" itunes:songPart="PreChorus">
+      <p begin="01:30.446" end="01:34.752" itunes:key="L26" ttm:agent="v1">
+        <span begin="01:30.446" end="01:30.691">Wing</span> <span begin="01:30.691" end="01:30.931">it</span> <span begin="01:30.931" end="01:31.326">now!</span> <span begin="01:31.372" end="01:31.630">Cast</span> <span begin="01:31.630" end="01:32.305">aside</span> <span begin="01:32.305" end="01:32.819">the</span> <span begin="01:32.819" end="01:33.160">un</span><span begin="01:33.160" end="01:33.717">changing</span> <span begin="01:33.717" end="01:34.752">score！</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">随性发挥！摆脱僵滞的谱面！</span>
+      </p>
+      <p begin="01:34.208" end="01:38.736" itunes:key="L27" ttm:agent="v1">
+        <span begin="01:34.208" end="01:34.754">Swing</span> <span begin="01:34.754" end="01:35.242">now!</span> <span begin="01:35.242" end="01:35.533">We</span> <span begin="01:35.533" end="01:35.762">aren't</span> <span begin="01:35.762" end="01:36.669">bolted</span> <span begin="01:36.669" end="01:37">parts</span> <span begin="01:37" end="01:37.440">a</span><span begin="01:37.440" end="01:37.690">ny</span><span begin="01:37.690" end="01:38.736">more！</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">摇摆起来！我们可不是零件！</span>
+      </p>
+      <p begin="01:38.116" end="01:42.388" itunes:key="L28" ttm:agent="v1">
+        <span begin="01:38.116" end="01:38.364">Win</span> <span begin="01:38.364" end="01:38.644">it</span> <span begin="01:38.644" end="01:39.084">now!</span> <span begin="01:39.084" end="01:39.336">Be</span> <span begin="01:39.336" end="01:39.585">the</span> <span begin="01:39.585" end="01:40.016">sharp</span> <span begin="01:40.016" end="01:40.536">no</span> <span begin="01:40.536" end="01:40.896">one</span> <span begin="01:40.896" end="01:41.265">can</span> <span begin="01:41.265" end="01:42.388">ignore！</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">拿下胜利！成为最亮眼的高音！</span>
+      </p>
+      <p begin="01:42.740" end="01:44.588" itunes:key="L29" ttm:agent="v1">
+        <span begin="01:42.740" end="01:42.991">Join</span> <span begin="01:42.991" end="01:43.241">us,</span> <span begin="01:43.241" end="01:43.481">let me</span> <span begin="01:43.481" end="01:43.898">hear you</span> <span begin="01:43.898" end="01:44.588">shout</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">一起来，让我听见你们的呼声</span>
+      </p>
+      <p begin="01:44.367" end="01:46.631" itunes:key="L30" ttm:agent="v1">
+        <span begin="01:44.367" end="01:44.861">Strike</span> <span begin="01:44.916" end="01:45.177">out</span> <span begin="01:45.177" end="01:45.417">your</span> <span begin="01:45.417" end="01:45.873">chord,</span> <span begin="01:45.938" end="01:46.631">yeah!</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">扫下属于你们的和弦，耶！</span>
+      </p>
+    </div>
+    <div begin="01:46.342" end="02:02.105" itunes:songPart="Chorus">
+      <p begin="01:46.342" end="01:50.582" itunes:key="L31" ttm:agent="v1">
+        <span begin="01:46.342" end="01:48.699">Woah!</span> <span begin="01:48.841" end="01:49.292">Keep on</span> <span begin="01:49.292" end="01:49.772">movin',</span> <span begin="01:49.772" end="01:50.582">groovin'</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">喔！保持律动，跟上节拍</span>
+      </p>
+      <p begin="01:50.252" end="01:54.302" itunes:key="L32" ttm:agent="v1">
+        <span begin="01:50.252" end="01:52.434">Woah!</span> <span begin="01:52.434" end="01:53.144">Jump high and</span> <span begin="01:53.144" end="01:54.302">fly</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">喔！跃向高空，展翅飞翔</span>
+      </p>
+      <p begin="01:54.086" end="01:58.359" itunes:key="L33" ttm:agent="v1">
+        <span begin="01:54.086" end="01:56.370">Woah!</span> <span begin="01:56.466" end="01:57.017">Speed up,</span> <span begin="01:57.017" end="01:57.727">move it, prove</span> <span begin="01:57.727" end="01:58.359">it</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">喔！加速，行动，去证明</span>
+      </p>
+      <p begin="01:57.955" end="02:02.105" itunes:key="L34" ttm:agent="v1">
+        <span begin="01:57.955" end="02:00.137">Woah!</span> <span begin="02:00.137" end="02:00.847">Jump high and</span> <span begin="02:00.847" end="02:02.105">fly</span>
+<span ttm:role="x-translation" xml:lang="zh-CN">喔！跃向高空，展翅飞翔</span>
+      </p>
+    </div>
+  </body>
+</tt>
