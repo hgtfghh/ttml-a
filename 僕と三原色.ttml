@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:tts="http://www.w3.org/ns/ttml#styling" itunes:timing="Word" xml:lang="ja">
+<head>
+    <metadata>
+        <ttm:agent type="person" xml:id="v1" />
+        <itunes:iTunesMetadata leadingSilence="0.300">
+            <itunes:translations>
+                <itunes:translation type="zh-CN" />
+            </itunes:translations>
+            <itunes:songwriters>
+                <itunes:songwriter>MASAHIRO TOBINAI</itunes:songwriter>
+                <itunes:songwriter>ヒグチアイ</itunes:songwriter>
+            </itunes:songwriters>
+        </itunes:iTunesMetadata>
+    </metadata>
+</head>
+<body dur="3:39.613">
+    <div>
+        <p begin="00:19.597" end="00:23.919" ttm:agent="v1" itunes:key="L1"><span begin="00:19.597" end="00:20.058">あ</span><span begin="00:20.058" end="00:21.004">あ </span><span begin="00:21.004" end="00:21.569">夕</span><span begin="00:21.569" end="00:22.368">焼け</span><span begin="00:22.368" end="00:23.050">みた</span><span begin="00:23.050" end="00:23.919">い</span></p>
+        <p begin="00:19.597" end="00:23.919" ttm:role="x-translation" ttm:agent="v1" itunes:key="L1" xml:lang="zh-CN"><span>啊啊 宛如晚霞般绚丽</span></p>
+
+        <p begin="00:24.074" end="00:26.985" ttm:agent="v1" itunes:key="L2"><span begin="00:24.074" end="00:24.781">みん</span><span begin="00:24.781" end="00:25.351">なの</span><span begin="00:25.351" end="00:25.727">世</span><span begin="00:25.727" end="00:26.985">界</span></p>
+        <p begin="00:24.074" end="00:26.985" ttm:role="x-translation" ttm:agent="v1" itunes:key="L2" xml:lang="zh-CN"><span>大家的世界</span></p>
+
+        <p begin="00:27.102" end="00:30.115" ttm:agent="v1" itunes:key="L3"><span begin="00:27.102" end="00:27.818">眺</span><span begin="00:27.818" end="00:28.558">めて</span><span begin="00:28.558" end="00:28.876">い</span><span begin="00:28.876" end="00:30.115">る</span></p>
+        <p begin="00:27.102" end="00:30.115" ttm:role="x-translation" ttm:agent="v1" itunes:key="L3" xml:lang="zh-CN"><span>都在眺望着</span></p>
+
+        <p begin="00:30.206" end="00:33.234" ttm:agent="v1" itunes:key="L4"><span begin="00:30.206" end="00:30.911">太</span><span begin="00:30.911" end="00:31.620">陽</span><span begin="00:31.620" end="00:32.062">の</span><span begin="00:32.062" end="00:32.594">レッ</span><span begin="00:32.594" end="00:33.234">ド</span></p>
+        <p begin="00:30.206" end="00:33.234" ttm:role="x-translation" ttm:agent="v1" itunes:key="L4" xml:lang="zh-CN"><span>太阳的红色</span></p>
+
+        <p begin="00:33.296" end="00:36.365" ttm:agent="v1" itunes:key="L5"><span begin="00:33.296" end="00:33.954">深</span><span begin="00:33.954" end="00:34.342">く</span><span begin="00:34.342" end="00:34.918">なる</span><span begin="00:34.918" end="00:35.298">ブ</span><span begin="00:35.298" end="00:36.365">ルー</span></p>
+        <p begin="00:33.296" end="00:36.365" ttm:role="x-translation" ttm:agent="v1" itunes:key="L5" xml:lang="zh-CN"><span>深邃的蓝色</span></p>
+
+        <p begin="00:36.508" end="00:39.370" ttm:agent="v1" itunes:key="L6"><span begin="00:36.508" end="00:37.348">瞬</span><span begin="00:37.348" end="00:37.562">く</span><span begin="00:37.562" end="00:38.221">イエ</span><span begin="00:38.221" end="00:39.370">ロー</span></p>
+        <p begin="00:36.508" end="00:39.370" ttm:role="x-translation" ttm:agent="v1" itunes:key="L6" xml:lang="zh-CN"><span>明亮的黄色</span></p>
+
+        <p begin="00:39.598" end="00:41.865" ttm:agent="v1" itunes:key="L7"><span begin="00:39.598" end="00:40.296">色</span><span begin="00:40.296" end="00:41.196">づいて</span><span begin="00:41.196" end="00:41.865">いく</span></p>
+        <p begin="00:39.598" end="00:41.865" ttm:role="x-translation" ttm:agent="v1" itunes:key="L7" xml:lang="zh-CN"><span>让一切染上斑斓之彩</span></p>
+
+        <p begin="00:42.067" end="00:50.470" ttm:agent="v1" itunes:key="L8"><span begin="00:42.067" end="00:43.656">僕</span><span begin="00:43.656" end="00:44.420">の</span><span begin="00:44.420" end="00:45.639">嬉しい、</span><span begin="00:45.639" end="00:46.794">楽しい、</span><span begin="00:46.794" end="00:47.819">さみしい、</span><span begin="00:47.819" end="00:49.155">感情の</span><span begin="00:49.155" end="00:50.470">色彩が</span></p>
+        <p begin="00:42.067" end="00:50.470" ttm:role="x-translation" ttm:agent="v1" itunes:key="L8" xml:lang="zh-CN"><span>我的喜悦、快乐、寂寞的情感色彩</span></p>
+
+        <p begin="00:50.600" end="00:55.418" ttm:agent="v1" itunes:key="L9"><span begin="00:50.600" end="00:51.676">ついに</span><span begin="00:51.934" end="00:52.429">混ざ</span><span begin="00:52.429" end="00:52.818">り</span><span begin="00:52.818" end="00:53.698">始め</span><span begin="00:53.698" end="00:55.418">た</span></p>
+        <p begin="00:50.600" end="00:55.418" ttm:role="x-translation" ttm:agent="v1" itunes:key="L9" xml:lang="zh-CN"><span>终于相互交织</span></p>
+
+        <p begin="00:55.864" end="00:58.836" ttm:agent="v1" itunes:key="L10"><span begin="00:55.864" end="00:56.292">いつ</span><span begin="00:56.292" end="00:56.837">まで</span><span begin="00:56.837" end="00:57.351">も </span><span begin="00:57.351" end="00:57.793">いくつ</span><span begin="00:57.793" end="00:58.214">まで</span><span begin="00:58.214" end="00:58.836">も</span></p>
+        <p begin="00:55.864" end="00:58.836" ttm:role="x-translation" ttm:agent="v1" itunes:key="L10" xml:lang="zh-CN"><span>无论何时 不管多少次</span></p>
+
+        <p begin="00:58.846" end="01:02.141" ttm:agent="v1" itunes:key="L11"><span begin="00:58.846" end="00:59.541">忘</span><span begin="00:59.541" end="00:59.939">れ</span><span begin="00:59.939" end="01:00.594">ない</span><span begin="01:00.594" end="01:01.378">よう</span><span begin="01:01.378" end="01:02.141">に</span></p>
+        <p begin="00:58.846" end="01:02.141" ttm:role="x-translation" ttm:agent="v1" itunes:key="L11" xml:lang="zh-CN"><span>绝不会忘记</span></p>
+
+        <p begin="01:02.348" end="01:06.110" ttm:agent="v1" itunes:key="L12"><span begin="01:02.348" end="01:03.102">鬱</span><span begin="01:03.102" end="01:04.028">向いて</span><span begin="01:04.028" end="01:04.609">塞い</span><span begin="01:04.609" end="01:05.319">でた</span><span begin="01:05.319" end="01:06.110">僕を</span></p>
+        <p begin="01:02.348" end="01:06.110" ttm:role="x-translation" ttm:agent="v1" itunes:key="L12" xml:lang="zh-CN"><span>总是郁郁寡欢的我</span></p>
+
+        <p begin="01:06.120" end="01:09.655" ttm:agent="v1" itunes:key="L13"><span begin="01:06.120" end="01:06.940">見つけ</span><span begin="01:06.940" end="01:07.687">出して</span><span begin="01:07.687" end="01:08.433">くれ</span><span begin="01:08.433" end="01:08.682">た</span><span begin="01:08.682" end="01:09.066">あの</span><span begin="01:09.066" end="01:09.655">日を</span></p>
+        <p begin="01:06.120" end="01:09.655" ttm:role="x-translation" ttm:agent="v1" itunes:key="L13" xml:lang="zh-CN"><span>自将这样的我找出那天起</span></p>
+
+        <p begin="01:09.815" end="01:11.216" ttm:agent="v1" itunes:key="L14"><span begin="01:09.815" end="01:10.305">いつ</span><span begin="01:10.305" end="01:10.786">まで</span><span begin="01:10.786" end="01:11.216">も</span></p>
+        <p begin="01:09.815" end="01:11.216" ttm:role="x-translation" ttm:agent="v1" itunes:key="L14" xml:lang="zh-CN"><span>无论何时</span></p>
+
+        <p begin="01:11.332" end="01:14.677" ttm:agent="v1" itunes:key="L15"><span begin="01:11.332" end="01:12.091">夢</span><span begin="01:12.091" end="01:12.729">叶</span><span begin="01:12.729" end="01:13.145">わ</span><span begin="01:13.145" end="01:13.730">なけ</span><span begin="01:13.730" end="01:14.067">り</span><span begin="01:14.067" end="01:14.677">ゃ</span></p>
+        <p begin="01:11.332" end="01:14.677" ttm:role="x-translation" ttm:agent="v1" itunes:key="L15" xml:lang="zh-CN"><span>倘若梦想无法实现的话</span></p>
+
+        <p begin="01:14.718" end="01:18.561" ttm:agent="v1" itunes:key="L16"><span begin="01:14.718" end="01:15.526">僕</span><span begin="01:15.526" end="01:16.377">らは</span><span begin="01:16.377" end="01:17.122">この</span><span begin="01:17.122" end="01:17.846">まま</span><span begin="01:17.846" end="01:18.561">ずっと</span></p>
+        <p begin="01:14.718" end="01:18.561" ttm:role="x-translation" ttm:agent="v1" itunes:key="L16" xml:lang="zh-CN"><span>我们是否将永远如此</span></p>
+
+        <p begin="01:18.601" end="01:22.306" ttm:agent="v1" itunes:key="L17"><span begin="01:18.601" end="01:19.418">隣</span><span begin="01:19.418" end="01:20.111">同士</span><span begin="01:20.111" end="01:20.983">笑って</span><span begin="01:20.983" end="01:21.716">いれる</span><span begin="01:21.716" end="01:22.002">か</span><span begin="01:22.002" end="01:22.306">な</span></p>
+        <p begin="01:18.601" end="01:22.306" ttm:role="x-translation" ttm:agent="v1" itunes:key="L17" xml:lang="zh-CN"><span>而旁观之人是否会嘲笑我们呢</span></p>
+
+        <p begin="01:22.316" end="01:25.716" ttm:agent="v1" itunes:key="L18"><span begin="01:22.316" end="01:22.649">…</span><span begin="01:22.649" end="01:23.486">僕が</span><span begin="01:23.486" end="01:23.900">僕</span><span begin="01:23.900" end="01:24.279">じゃ</span><span begin="01:24.279" end="01:24.687">ない</span><span begin="01:24.687" end="01:25.128">みたい</span><span begin="01:25.128" end="01:25.716">！</span></p>
+        <p begin="01:22.316" end="01:25.716" ttm:role="x-translation" ttm:agent="v1" itunes:key="L18" xml:lang="zh-CN"><span>…我仿佛并非昔日自己！</span></p>
+
+        <p begin="01:37.321" end="01:41.816" ttm:agent="v1" itunes:key="L19"><span begin="01:37.321" end="01:37.888">あ</span><span begin="01:37.888" end="01:38.810">あ </span><span begin="01:38.810" end="01:39.462">朝</span><span begin="01:39.462" end="01:40.190">焼け</span><span begin="01:40.190" end="01:40.912">みた</span><span begin="01:40.912" end="01:41.816">い</span></p>
+        <p begin="01:37.321" end="01:41.816" ttm:role="x-translation" ttm:agent="v1" itunes:key="L19" xml:lang="zh-CN"><span>啊啊 宛如晚霞般绚丽</span></p>
+
+        <p begin="01:41.933" end="01:44.982" ttm:agent="v1" itunes:key="L20"><span begin="01:41.933" end="01:42.621">眠</span><span begin="01:42.621" end="01:43.018">れ</span><span begin="01:43.018" end="01:43.569">なく</span><span begin="01:43.569" end="01:44.982">て</span></p>
+        <p begin="01:41.933" end="01:44.982" ttm:role="x-translation" ttm:agent="v1" itunes:key="L20" xml:lang="zh-CN"><span>彻夜难眠</span></p>
+
+        <p begin="01:45.059" end="01:47.381" ttm:agent="v1" itunes:key="L21"><span begin="01:45.059" end="01:46.019">空を</span><span begin="01:46.019" end="01:46.679">見て</span><span begin="01:46.679" end="01:47.381">る</span></p>
+        <p begin="01:45.059" end="01:47.381" ttm:role="x-translation" ttm:agent="v1" itunes:key="L21" xml:lang="zh-CN"><span>凝视夜空</span></p>
+
+        <p begin="01:47.479" end="01:56.009" ttm:agent="v1" itunes:key="L22"><span begin="01:47.479" end="01:49.122">僕</span><span begin="01:49.122" end="01:50.025">の</span><span begin="01:50.025" end="01:51.146">苦しい、</span><span begin="01:51.146" end="01:52.233">悔しい、</span><span begin="01:52.233" end="01:53.442">虚しい</span><span begin="01:53.442" end="01:54.584">感情の</span><span begin="01:54.584" end="01:56.009">色彩が</span></p>
+        <p begin="01:47.479" end="01:56.009" ttm:role="x-translation" ttm:agent="v1" itunes:key="L22" xml:lang="zh-CN"><span>我内心痛苦、懊悔、空虚的情感色彩</span></p>
+
+        <p begin="01:56.202" end="02:00.817" ttm:agent="v1" itunes:key="L23"><span begin="01:56.202" end="01:57.309">胸の</span><span begin="01:57.309" end="01:57.846">中</span><span begin="01:57.846" end="01:58.452">ループ</span><span begin="01:58.452" end="01:59.182">してい</span><span begin="01:59.182" end="02:00.817">る</span></p>
+        <p begin="01:56.202" end="02:00.817" ttm:role="x-translation" ttm:agent="v1" itunes:key="L23" xml:lang="zh-CN"><span>在胸腔中循环流转</span></p>
+
+        <p begin="02:01.032" end="02:03.051" ttm:agent="v1" itunes:key="L24"><span begin="02:01.032" end="02:01.934">濁って</span><span begin="02:01.934" end="02:03.051">いく</span></p>
+        <p begin="02:01.032" end="02:03.051" ttm:role="x-translation" ttm:agent="v1" itunes:key="L24" xml:lang="zh-CN"><span>变得浑浊不清</span></p>
+
+        <p begin="02:26.516" end="02:30.247" ttm:agent="v1" itunes:key="L25"><span begin="02:26.516" end="02:27.201">全部</span><span begin="02:27.201" end="02:27.768">混</span><span begin="02:27.768" end="02:28.068">ぜ</span><span begin="02:28.068" end="02:28.671">た</span><span begin="02:28.671" end="02:29.323">パレッ</span><span begin="02:29.323" end="02:29.804">トの</span><span begin="02:29.804" end="02:30.247">上に</span></p>
+        <p begin="02:26.516" end="02:30.247" ttm:role="x-translation" ttm:agent="v1" itunes:key="L25" xml:lang="zh-CN"><span>混杂所有颜色的调色板之上</span></p>
+
+        <p begin="02:30.323" end="02:34.221" ttm:agent="v1" itunes:key="L26"><span begin="02:30.323" end="02:31.714">涙</span><span begin="02:31.714" end="02:32.342">一</span><span begin="02:32.342" end="02:32.976">粒</span><span begin="02:32.976" end="02:33.508">落ちた</span><span begin="02:33.508" end="02:34.221">ら</span></p>
+        <p begin="02:30.323" end="02:34.221" ttm:role="x-translation" ttm:agent="v1" itunes:key="L26" xml:lang="zh-CN"><span>一颗泪滴零落调入</span></p>
+
+        <p begin="02:34.369" end="02:38.863" ttm:agent="v1" itunes:key="L27"><span begin="02:34.369" end="02:35.045">僕</span><span begin="02:35.045" end="02:36.203">だけの</span><span begin="02:36.203" end="02:37.367">色</span><span begin="02:37.367" end="02:37.732">に</span><span begin="02:37.732" end="02:38.150">なっ</span><span begin="02:38.150" end="02:38.863">た</span></p>
+        <p begin="02:34.369" end="02:38.863" ttm:role="x-translation" ttm:agent="v1" itunes:key="L27" xml:lang="zh-CN"><span>变成了我独有的色彩</span></p>
+
+        <p begin="02:39.035" end="02:44.407" ttm:agent="v1" itunes:key="L28"><span begin="02:39.035" end="02:39.728">どんな</span><span begin="02:39.728" end="02:41.126">名前を</span><span begin="02:41.126" end="02:42.578">つけたら</span><span begin="02:42.578" end="02:42.946">い</span><span begin="02:42.946" end="02:43.759">い</span><span begin="02:43.759" end="02:44.407">？</span></p>
+        <p begin="02:39.035" end="02:44.407" ttm:role="x-translation" ttm:agent="v1" itunes:key="L28" xml:lang="zh-CN"><span>该取一个怎样的名字呢？</span></p>
+
+        <p begin="02:46.250" end="02:49.449" ttm:agent="v1" itunes:key="L29"><span begin="02:46.250" end="02:46.958">灰</span><span begin="02:46.958" end="02:47.584">色</span><span begin="02:47.584" end="02:48.098">の</span><span begin="02:48.098" end="02:48.812">横断</span><span begin="02:48.812" end="02:49.449">歩道</span></p>
+        <p begin="02:46.250" end="02:49.449" ttm:role="x-translation" ttm:agent="v1" itunes:key="L29" xml:lang="zh-CN"><span>灰白相间的斑马线上</span></p>
+
+        <p begin="02:49.595" end="02:52.691" ttm:agent="v1" itunes:key="L30"><span begin="02:49.595" end="02:50.085">浮</span><span begin="02:50.085" end="02:50.556">かぶ</span><span begin="02:50.556" end="02:51.358">白</span><span begin="02:51.358" end="02:51.719">を</span><span begin="02:51.719" end="02:52.036">踏</span><span begin="02:52.036" end="02:52.691">む</span></p>
+        <p begin="02:49.595" end="02:52.691" ttm:role="x-translation" ttm:agent="v1" itunes:key="L30" xml:lang="zh-CN"><span>踏出飘渺而洁白的足迹</span></p>
+
+        <p begin="02:53.027" end="02:56.705" ttm:agent="v1" itunes:key="L31"><span begin="02:53.027" end="02:54.197">緑</span><span begin="02:54.197" end="02:54.665">の</span><span begin="02:54.665" end="02:55.740">点滅</span><span begin="02:55.740" end="02:56.093">が</span><span begin="02:56.093" end="02:56.705">僕を</span></p>
+        <p begin="02:53.027" end="02:56.705" ttm:role="x-translation" ttm:agent="v1" itunes:key="L31" xml:lang="zh-CN"><span>绿灯闪烁着光芒</span></p>
+
+        <p begin="02:56.876" end="02:58.913" ttm:agent="v1" itunes:key="L32"><span begin="02:56.876" end="02:57.760">急かし</span><span begin="02:57.760" end="02:58.188">て</span><span begin="02:58.188" end="02:58.476">く</span><span begin="02:58.476" end="02:58.913">る</span></p>
+        <p begin="02:56.876" end="02:58.913" ttm:role="x-translation" ttm:agent="v1" itunes:key="L32" xml:lang="zh-CN"><span>促使我前行</span></p>
+
+        <p begin="02:58.923" end="03:01.799" ttm:agent="v1" itunes:key="L33"><span begin="02:58.923" end="02:59.366">いつ</span><span begin="02:59.366" end="02:59.956">まで</span><span begin="02:59.956" end="03:00.480">も </span><span begin="03:00.480" end="03:00.968">いくつ</span><span begin="03:00.968" end="03:01.468">まで</span><span begin="03:01.468" end="03:01.799">も</span></p>
+        <p begin="02:58.923" end="03:01.799" ttm:role="x-translation" ttm:agent="v1" itunes:key="L33" xml:lang="zh-CN"><span>无论何时 不管多少次</span></p>
+
+        <p begin="03:01.862" end="03:05.171" ttm:agent="v1" itunes:key="L34"><span begin="03:01.862" end="03:02.681">忘</span><span begin="03:02.681" end="03:03.058">れ</span><span begin="03:03.058" end="03:04.171">ないで</span><span begin="03:04.171" end="03:04.713">いよ</span><span begin="03:04.713" end="03:05.171">う</span></p>
+        <p begin="03:01.862" end="03:05.171" ttm:role="x-translation" ttm:agent="v1" itunes:key="L34" xml:lang="zh-CN"><span>绝不会忘记</span></p>
+
+        <p begin="03:05.393" end="03:09.172" ttm:agent="v1" itunes:key="L35"><span begin="03:05.393" end="03:06.131">まっ</span><span begin="03:06.131" end="03:07.370">さらな</span><span begin="03:07.370" end="03:08.483">キャンバス</span><span begin="03:08.483" end="03:08.809">の</span><span begin="03:08.809" end="03:09.172">上</span></p>
+        <p begin="03:05.393" end="03:09.172" ttm:role="x-translation" ttm:agent="v1" itunes:key="L35" xml:lang="zh-CN"><span>好似在纯粹无暇的画布上</span></p>
+
+        <p begin="03:09.337" end="03:12.827" ttm:agent="v1" itunes:key="L36"><span begin="03:09.337" end="03:10.088">描き</span><span begin="03:10.088" end="03:10.789">殴る</span><span begin="03:10.789" end="03:11.509">ように</span><span begin="03:11.509" end="03:12.253">刻むん</span><span begin="03:12.253" end="03:12.827">だ</span></p>
+        <p begin="03:09.337" end="03:12.827" ttm:role="x-translation" ttm:agent="v1" itunes:key="L36" xml:lang="zh-CN"><span>如同潦草绘画般雕琢</span></p>
+
+        <p begin="03:12.837" end="03:14.369" ttm:agent="v1" itunes:key="L37"><span begin="03:12.837" end="03:13.404">いつ</span><span begin="03:13.404" end="03:13.883">かは</span><span begin="03:13.883" end="03:14.369">さ</span></p>
+        <p begin="03:12.837" end="03:14.369" ttm:role="x-translation" ttm:agent="v1" itunes:key="L37" xml:lang="zh-CN"><span>纵使总有一日</span></p>
+
+        <p begin="03:14.434" end="03:17.704" ttm:agent="v1" itunes:key="L38"><span begin="03:14.434" end="03:15.239">色</span><span begin="03:15.239" end="03:15.599">褪</span><span begin="03:15.599" end="03:15.992">せ</span><span begin="03:15.992" end="03:16.904">ちゃって</span><span begin="03:16.904" end="03:17.704">も</span></p>
+        <p begin="03:14.434" end="03:17.704" ttm:role="x-translation" ttm:agent="v1" itunes:key="L38" xml:lang="zh-CN"><span>褪去了色彩</span></p>
+
+        <p begin="03:17.833" end="03:21.546" ttm:agent="v1" itunes:key="L39"><span begin="03:17.833" end="03:18.619">何</span><span begin="03:18.619" end="03:19.465">回</span><span begin="03:19.465" end="03:20.104">でも</span><span begin="03:20.104" end="03:20.964">再生</span><span begin="03:20.964" end="03:21.546">して</span></p>
+        <p begin="03:17.833" end="03:21.546" ttm:role="x-translation" ttm:agent="v1" itunes:key="L39" xml:lang="zh-CN"><span>那就再无数次放起这首歌</span></p>
+
+        <p begin="03:21.657" end="03:25.583" ttm:agent="v1" itunes:key="L40"><span begin="03:21.657" end="03:22.492">次の</span><span begin="03:22.492" end="03:23.272">夢を</span><span begin="03:23.272" end="03:24.233">育てに</span><span begin="03:24.233" end="03:25.013">いこう</span><span begin="03:25.013" end="03:25.583">よ</span></p>
+        <p begin="03:21.657" end="03:25.583" ttm:role="x-translation" ttm:agent="v1" itunes:key="L40" xml:lang="zh-CN"><span>育出下一个梦想吧</span></p>
+
+        <p begin="03:25.593" end="03:28.620" ttm:agent="v1" itunes:key="L41"><span begin="03:25.593" end="03:25.827">…</span><span begin="03:25.827" end="03:26.489">こんな</span><span begin="03:26.489" end="03:27.300">僕は</span><span begin="03:27.300" end="03:27.759">僕</span><span begin="03:27.759" end="03:28.620">じゃない！</span></p>
+        <p begin="03:25.593" end="03:28.620" ttm:role="x-translation" ttm:agent="v1" itunes:key="L41" xml:lang="zh-CN"><span>…这样的我并非是我！</span></p>
+
+        <p begin="03:28.849" end="03:31.804" ttm:agent="v1" itunes:key="L42"><span begin="03:28.849" end="03:29.663">こんなん</span><span begin="03:29.663" end="03:30.444">全然</span><span begin="03:30.444" end="03:31.110">聞いて</span><span begin="03:31.110" end="03:31.517">ない</span><span begin="03:31.517" end="03:31.804">!!</span></p>
+        <p begin="03:28.849" end="03:31.804" ttm:role="x-translation" ttm:agent="v1" itunes:key="L42" xml:lang="zh-CN"><span>这样的事我从未听闻!!</span></p>
+
+        <p begin="03:31.857" end="03:35.015" ttm:agent="v1" itunes:key="L43"><span begin="03:31.857" end="03:32.164">…</span><span begin="03:32.164" end="03:32.844">でも</span><span begin="03:32.844" end="03:33.432">なんか、</span><span begin="03:33.432" end="03:34.045">嫌い</span><span begin="03:34.045" end="03:34.353">じゃ</span><span begin="03:34.353" end="03:34.660">な</span><span begin="03:34.660" end="03:35.015">い</span></p>
+        <p begin="03:31.857" end="03:35.015" ttm:role="x-translation" ttm:agent="v1" itunes:key="L43" xml:lang="zh-CN"><span>…不过、我并不讨厌</span></p>
+    </div>
+</body>
+</tt>
